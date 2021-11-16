@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-16T18:58:04+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">arbitecture</title><subtitle>Aparejador 4puntocero</subtitle><author><name>Ángel Ramallo Benítez</name></author><entry><title type="html">Clase</title><link href="http://localhost:4000/curiosidades/clase" rel="alternate" type="text/html" title="Clase" /><published>2021-11-11T00:00:00+00:00</published><updated>2021-11-11T00:00:00+00:00</updated><id>http://localhost:4000/curiosidades/clase</id><content type="html" xml:base="http://localhost:4000/curiosidades/clase">&lt;h1 id=&quot;aprendiendo-a-usar-un-generador-estático&quot;&gt;Aprendiendo a usar un generador estático&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Me he cargado mi segundo post&lt;/em&gt;&lt;/p&gt;</content><author><name>Ángel Ramallo Benítez</name></author><category term="curiosidades" /><summary type="html">Aprendiendo a usar un generador estático</summary></entry><entry><title type="html">Mi último proyecto</title><link href="http://localhost:4000/aet" rel="alternate" type="text/html" title="Mi último proyecto" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>http://localhost:4000/aet</id><content type="html" xml:base="http://localhost:4000/aet">&lt;h1 id=&quot;granada-spain&quot;&gt;Granada (Spain)&lt;/h1&gt;
+
+&lt;h2 id=&quot;proyecto-de-adecuación-de-local-buenavida-en-granada-spain&quot;&gt;Proyecto de adecuación de local Buenavida en Granada (Spain)&lt;/h2&gt;
+
+&lt;p&gt;Próximamente les mostraré mi último trabajo en Granada, que también ha sido el primero como director técnico de obra: la renovación del Centro de Salud y Deporte &lt;a href=&quot;http://www.buenavidagranada.com/&quot;&gt;Buenavida&lt;/a&gt;.
+Con un presupuesto de ejecución aproximado de 15 mil euros&lt;/p&gt;
+
+&lt;h2 id=&quot;terminado&quot;&gt;Terminado&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Demoliciones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Carpintería exterior&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tabiquería seca&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Instalaciones de electricidad&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Climatización&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pavimentos&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  
+    
+    &lt;tr&gt;
+      
+        &lt;th&gt;First name&lt;/th&gt;
+      
+        &lt;th&gt;Last name&lt;/th&gt;
+      
+        &lt;th&gt;Age&lt;/th&gt;
+      
+        &lt;th&gt;Location&lt;/th&gt;
+      
+    &lt;/tr&gt;
+    
+
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      John
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      35
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      United States
+    &lt;/td&gt;&lt;/tr&gt;
+
+    
+  
+    
+
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jane
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      29
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      France
+    &lt;/td&gt;&lt;/tr&gt;
+
+    
+  
+    
+
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jack
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Hill
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      25
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      Australia
+    &lt;/td&gt;&lt;/tr&gt;
+
+    
+  
+&lt;/table&gt;</content><author><name>Ángel Ramallo Benítez</name></author><summary type="html">Granada (Spain)</summary></entry><entry><title type="html">Mi primer post</title><link href="http://localhost:4000/curiosidades/aet" rel="alternate" type="text/html" title="Mi primer post" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/curiosidades/aet</id><content type="html" xml:base="http://localhost:4000/curiosidades/aet">&lt;h1 id=&quot;les-presento-mi-carpeta-de-trabajos&quot;&gt;Les presento mi carpeta de trabajos&lt;/h1&gt;
+
+&lt;p&gt;Que, como verán, han sido pocos, pero entrañables, con mucha dedicación y aprendizaje&lt;/p&gt;
+
+\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]</content><author><name>Ángel Ramallo Benítez</name></author><category term="curiosidades" /><summary type="html">Les presento mi carpeta de trabajos</summary></entry></feed>
